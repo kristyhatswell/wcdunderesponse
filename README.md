@@ -1,6 +1,5 @@
 #wcdunderesponse
 
-wcdunderesponse
 ===
 
 Hi. I'm a starter theme called `wcdunderesponse`. I'm a theme meant for hacking so don't use me
